@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Amir Shabani :)
+
+🔭 I’m currently working on [Shopp Integrated POS](https://shopp.ir/?p=654)
+
+🌱 I’m currently learning [Swift](https://github.com/Schabaani/ios-development-journey)
+
+👨‍💻 Visit my medium blog at https://outofindex.medium.com
+
+🌐 My Linkedin page is https://www.linkedin.com/in/amirshabani/
+
+💬 Ask me about React Native, TypeScript, Swfit, ...
+
+⚡ Fun fact I love hiking and reading book
