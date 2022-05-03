@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Amir Shabani :)
 
-🔭 I’m currently working on [24i](https://24i.com)
+🔭 I’m currently working at [24i](https://24i.com)
 
 🌱 I’m currently learning [Swift](https://github.com/Schabaani/ios-development-journey)
 
