@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 I am Amir Shabani :)
 
-🔭 I’m currently working at [STTS]([https://24i.com](https://stts.ir/))
+🔭 I’m currently working at [STTS]([https://24i.com](https://stts.ir/)
 
 
 👨‍💻 Visit my medium blog at https://outofindex.medium.com
 
-🌐 My Linkedin page is https://www.linkedin.com/in/amirshabani/
+🌐 My Linkedin page is https://www.linkedin.com/in/schabaani/
 
 💬 Ask me about React, React Native, TypeScript, ...
 
