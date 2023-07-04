@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 I am Amir Shabani :)
 
-🔭 I’m currently working at [24i](https://24i.com)
+🔭 I’m currently working at [STTS]([https://24i.com](https://stts.ir/))
 
-🌱 I’m currently learning [Swift](https://github.com/Schabaani/ios-development-journey)
 
 👨‍💻 Visit my medium blog at https://outofindex.medium.com
 
 🌐 My Linkedin page is https://www.linkedin.com/in/amirshabani/
 
-💬 Ask me about React Native, TypeScript, Swfit, ...
+💬 Ask me about React, React Native, TypeScript, ...
 
 ⚡ Fun fact I love hiking and reading book
