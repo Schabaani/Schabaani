@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 👨‍💻 Visit my medium blog at https://outofindex.medium.com
 
-🌐 My Linkedin page is https://www.linkedin.com/in/schabaani/
+<!--🌐 My Linkedin page is https://www.linkedin.com/in/schabaani/ -->
 
 💬 Ask me about React, React Native, TypeScript, ...
 
