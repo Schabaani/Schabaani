@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working at [STTS](https://stts.ir)
+🔭 I’m currently working at [Digikala](https://digikala.com)
 
 
 👨‍💻 Visit my medium blog at https://outofindex.medium.com
 
-<!--🌐 My Linkedin page is https://www.linkedin.com/in/schabaani/ -->
+🌐 My Linkedin page is https://www.linkedin.com/in/schabaani/
 
-💬 Ask me about React, React Native, TypeScript, ...
+💬 Ask me about React, React Native, TypeScript, GoLang, NodeJs, ...
 
 ⚡ Fun fact I love hiking and reading book
