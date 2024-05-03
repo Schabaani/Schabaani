@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working at [Digikala](https://digikala.com)
 
+🎬 Check my YouTube Channel at [@beyondCodingWithAmish](https://www.youtube.com/@beyondcodingwithAmish)
 
-👨‍💻 Visit my medium blog at https://outofindex.medium.com
+👨‍💻 Visit my Medium blog at [outOfIndex](https://outofindex.medium.com)
 
-🌐 My Linkedin page is https://www.linkedin.com/in/schabaani/
+🌐 My LinkedIn page is [in/amish-schabani/](https://www.linkedin.com/in/amish-schabani/)
 
-💬 Ask me about React, React Native, TypeScript, GoLang, NodeJs, ...
+💬 Ask me about React, React Native, TypeScript, Java, ...
 
 ⚡ Fun fact I love hiking and reading book
