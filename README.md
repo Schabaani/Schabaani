@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working at [Digikala](https://digikala.com)
+🔭 I’m currently working at [Roadern](https://roadern.co.uk)
 
 🎬 Check my YouTube Channel at [@beyondCodingWithAmish](https://www.youtube.com/@beyondcodingwithAmish)
 
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 🌐 My LinkedIn page is [in/amish-schabani/](https://www.linkedin.com/in/amish-schabani/)
 
-💬 Ask me about React Native, NodeJs, React, Javascript(TypeScript), Swift, ...
+💬 Ask me about React Native, NodeJS, React, JavaScript (TypeScript), Swift, ...
 
-⚡ Fun fact I love hiking and reading book
+⚡ Fun fact: I love hiking and reading books
