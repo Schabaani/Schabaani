@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 🌐 My LinkedIn page is [in/amish-schabani/](https://www.linkedin.com/in/amish-schabani/)
 
-💬 Ask me about React Native, NodeJS, React, JavaScript (TypeScript), Swift, ...
+💬 Ask me about React Native, NodeJS, React, JavaScript (TypeScript), Swift, Kotlin, ...
 
 ⚡ Fun fact: I love hiking and reading books
